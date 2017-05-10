@@ -8,8 +8,8 @@ class Login{
         return "logar";
     }
 
-    public function logout(){
-        return "logout";
+    public function logoutUser(){
+        
     }
 
 }
