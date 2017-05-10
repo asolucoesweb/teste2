@@ -5,7 +5,7 @@ namespace App/Classes;
 class Login{
  
     public function login(){
-        return "logar";
+        return "logar usuário";
     }
 
     public function logoutUser(){
