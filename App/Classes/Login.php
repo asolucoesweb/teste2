@@ -9,7 +9,7 @@ class Login{
     }
 
     public function logoutUser(){
-        
+        return "logout do user";
     }
 
 }
